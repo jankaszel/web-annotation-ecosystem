@@ -8,7 +8,7 @@ Little effort has been made to actually document interoperability between such s
 
 This repository aims to shed light into this question of compatibility by documenting services that adhere to the Web Annotation specification. By stating which parts of the specification are supported, interested parties can ideally estimate which tools will be compatible with each other.
 
-This document is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This is a living document with no claim of completeness. If you want to add services, please [feel free to contribute](#contributing). This document is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ### Contributing
 
