@@ -34,4 +34,5 @@ images, developed by [the Pelagios project](http://commons.pelagios.org). Recogi
 ## Annotation Tools
 
 * [`validate-web-annotation`](https://github.com/falafeljan/validate-web-annotation): Validate JSON object against the Web Annotation Data Model using JSON schemata.
+* [W3C Web Annotation Tests](https://github.com/w3c/web-annotation-tests): A suite of tests for validating the Web Annotation family of specifications. This suite is going to be included in the [W3C's Web Platform Tests infrastructure](https://github.com/web-platform-tests/wpt) and covers both the Annotation Model and Annotation Protocol.
 
