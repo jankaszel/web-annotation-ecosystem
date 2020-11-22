@@ -28,6 +28,7 @@ images, developed by [the Pelagios project](http://commons.pelagios.org). Recogi
 ## Annotation Libraries
 
 * [Annotorious](https://recogito.github.io/annotorious/): Annotorious builds upon the internals of [RecogitoJS](https://github.com/recogito/recogito-js) and enables image annotation on the web. With the respective plugin, Annotious can be used with [OpenSeadragon](https://openseadragon.github.io) for annotating high-resolution, zoomable images.
+* [Apache Annotator](https://github.com/apache/incubator-annotator): a library that provides annotation enabling code for browsers, servers, and humans. Written in TypeScript. Most notably, Apache Annotator provides functionality for creating and resolving Web Annotation selectors in DOM environments.
 * [RecogitoJS](https://github.com/recogito/recogito-js): A modular UI component for annotating text on the web, RecogitoJS comes as an all-in-one solution for adding annotation capabilities and is extensible via themes and plugins.
 
 ## Annotation Tools
